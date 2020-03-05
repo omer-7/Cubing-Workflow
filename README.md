@@ -30,3 +30,9 @@
 
 ### Day 11:
 *Pyraminx **Layer-by-Layer Method**:* 22.93, 14.52, 14.68, 25.95, 8.71, 24.42, 19.82
+
+### Day 12:
+*2x2 **Beginner Method**:* DNF
+
+### Day 13:
+*2x2 **Beginner Method**:* DNF
